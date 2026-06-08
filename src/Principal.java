@@ -10,7 +10,7 @@ public class Principal {
 		String dato;
 		
 		System.out.println("hola mundo");
-		System.out.println("prueba actualizacion de git");
+		System.out.println("prueba nueva rama de git");
 		
 		do {
 			do {
