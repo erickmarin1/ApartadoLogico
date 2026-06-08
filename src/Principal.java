@@ -9,6 +9,9 @@ public class Principal {
 		Scanner Lectura = null;
 		String dato;
 		
+		System.out.println("hola mundo");
+		System.out.println("prueba actualizacion de git");
+		
 		do {
 			do {
 				System.out.println("Menu de Ejercicios");
